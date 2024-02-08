@@ -1,6 +1,6 @@
 # RESUMO BIO
 <div style="text-align: justify;">
-  <p></p>Meu nome é Wellington e estou imerso no mundo da tecnologia há algum tempo. Minha trajetória teve início como professor de informática básica, mas desde então venho ampliando meus horizontes e adquirindo novos conhecimentos de forma constante. Em janeiro de 2024, dei inicio em uma jornada dedicada à programação, mantendo sempre o foco e a determinação. Sou graduado em Ciências da Computação pela UFPB CAMPU IV, tendo concluído meu curso em 10 de junho de 2023. No período subsequente, explorei uma área profissional totalmente distinta da minha formação, porém, ao final de 2023, decidi me afastar para buscar minha verdadeira paixão e propósito na área de tecnologia.
+  <p>Meu nome é Wellington e estou imerso no mundo da tecnologia há algum tempo. Minha trajetória teve início como professor de informática básica, mas desde então venho ampliando meus horizontes e adquirindo novos conhecimentos de forma constante. Em janeiro de 2024, dei inicio em uma jornada dedicada à programação, mantendo sempre o foco e a determinação. Sou graduado em Ciências da Computação pela UFPB CAMPU IV, tendo concluído meu curso em 10 de junho de 2023. No período subsequente, explorei uma área profissional totalmente distinta da minha formação, porém, ao final de 2023, decidi me afastar para buscar minha verdadeira paixão e propósito na área de tecnologia.
   Neste ano, estou empenhado em aprimorar minhas habilidades e alcançar os objetivos que tanto almejo.</p>
 </div>
 
