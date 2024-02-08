@@ -23,6 +23,14 @@ Procuro vagas no desenvolvimento Mobile desenvolvo com o framework Flutter
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wellingtonZero&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonZero&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<h1 align="center">Status GitHub </h1>
+<div align="center">
+  <a href="https://github.com/wellingtonZero">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wellingtonZero&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" alt="html-icon" src="https://streak-stats.demolab.com/?user=wellingtonZero&amp;theme=chartreuse-dark&amp;background=000&amp;border=#4747d1&amp;dates=FFF"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonZero&layout=compact&¨langs_count=16&theme=chartreuse-dark"/>
+  </a>
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=wellingtonZero&icon=1&color=0)](https://visitcount.itsvg.in)
 
