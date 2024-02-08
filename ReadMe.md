@@ -18,11 +18,6 @@ Procuro vagas no desenvolvimento Mobile desenvolvo com o framework Flutter
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  </div>
  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wellingtonZero&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wellingtonZero&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonZero&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <h1 align="center">Status GitHub </h1>
 <div align="center">
   <a href="https://github.com/wellingtonZero">
@@ -31,7 +26,7 @@ Procuro vagas no desenvolvimento Mobile desenvolvo com o framework Flutter
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonZero&layout=compact&¨langs_count=16&theme=chartreuse-dark"/>
   </a>
 </div>
----
+
 [![](https://visitcount.itsvg.in/api?id=wellingtonZero&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
