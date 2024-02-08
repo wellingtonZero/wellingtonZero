@@ -1,12 +1,17 @@
 # RESUMO BIO
-
   <p style="text-align: justify;"> Meu nome é Wellington e estou imerso no mundo da tecnologia há algum tempo. Minha trajetória teve início como professor de informática básica, mas desde então venho ampliando meus horizontes e adquirindo novos conhecimentos de forma constante. Em janeiro de 2024, dei inicio em uma jornada dedicada à programação, mantendo sempre o foco e a determinação. Sou graduado em Ciências da Computação pela UFPB CAMPU IV, tendo concluído meu curso em 10 de junho de 2023. No período subsequente, explorei uma área profissional totalmente distinta da minha formação, porém, ao final de 2023, decidi me afastar para buscar minha verdadeira paixão e propósito na área de tecnologia. Neste ano, estou empenhado em aprimorar minhas habilidades e alcançar os objetivos que tanto almejo.</p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-de-lima-soares-25195b1b4/) 
+<a href="https://www.linkedin.com/in/wellington-de-lima-soares-25195b1b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="150" height="30">
+</a>
+<a href="https://www.dio.me/users/naovalido3">
+    <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge" width="150" height="30">
+</a>
 
 # 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 <div style="display: inline_block">
   <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -16,6 +21,7 @@
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" height="50" width="50" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  </div>
  
 <h1 align="center">Status GitHub </h1>
