@@ -1,5 +1,6 @@
-# 💫 About Me:
-Procuro vagas no desenvolvimento Mobile desenvolvo com o framework Flutter
+# RESUMO BIO
+Me chamo Wellington estou na área de tecnologia há algum tempo começei como professor de informática básica desde então estou sempre ganhando conhecimento.
+Sou Graduado Ciências da Computação pela UFPB CAMPU IV. Atualmente estou me aprofundando em Desenvolvimento Mobile.
 
 
 ## 🌐 Socials:
