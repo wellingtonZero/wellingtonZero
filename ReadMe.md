@@ -23,7 +23,6 @@
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" height="50" width="50" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="30" width="40" alt="html-icon" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">
-  <img xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; height: 100%" viewBox="0 0 275 50" preserveAspectRatio="none" width="100%" height="100%"><use href="#svg708989497_1859"></use>>
  </div>
  
 <h1 align="center">Status GitHub </h1>
