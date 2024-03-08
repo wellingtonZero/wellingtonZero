@@ -10,7 +10,7 @@
 </a>
 
 # 💻 Tech Stack:
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Rive](http://www.w3.org/2000/svg) ![rive](https://github.com/wellingtonZero/wellingtonZero/assets/94226005/ab9370a7-ab71-417b-9b25-e84b3bd5d23a)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![rive](https://github.com/wellingtonZero/wellingtonZero/assets/94226005/ab9370a7-ab71-417b-9b25-e84b3bd5d23a)
 
 
 <div style="display: inline_block">
