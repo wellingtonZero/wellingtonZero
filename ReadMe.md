@@ -28,7 +28,6 @@
 <div align="center">
   <a href="https://github.com/wellingtonZero">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wellingtonZero&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" alt="html-icon" src="https://streak-stats.demolab.com/?user=wellingtonZero&amp;theme=chartreuse-dark&amp;background=000&amp;border=#4747d1&amp;dates=FFF"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonZero&layout=compact&¨langs_count=16&theme=chartreuse-dark"/>
   </a>
 </div>
